@@ -1,4 +1,4 @@
-# Exibindo valores da lista
+# Exibindo valores da lista  com for
 comidas = ['Cebola', 'Tomate', 'Cenoura', 'Ovo', 'Queijo']
 
 print("indice - elemento")

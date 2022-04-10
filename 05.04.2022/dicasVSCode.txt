@@ -1,0 +1,13 @@
+# ctrl + d
+Cada vez executado seleciona a estrutura repetida
+
+# ctrl + f
+Procura algo
+
+# ctrl + b
+Fecha a aba de miniaturas
+
+Extensões
+
+Dracula = para estilização
+Python

@@ -11,3 +11,4 @@ dados_cidade = {
 }
 
 print(dados_cidade.items()) 
+print(type(dados_cidade.items()))

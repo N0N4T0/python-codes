@@ -12,4 +12,6 @@ dados_cidade = {
 
 print(dados_cidade['restaurantes'])
 print(dados_cidade.get('restaurantes'))
+
+# Verificar se existe
 print(dados_cidade.get('telefone'))

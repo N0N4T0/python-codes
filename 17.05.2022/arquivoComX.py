@@ -1,0 +1,1 @@
+open("criado.txt", "x")

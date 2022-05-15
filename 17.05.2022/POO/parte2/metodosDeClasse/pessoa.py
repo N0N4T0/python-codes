@@ -24,8 +24,10 @@ class Pessoa:
 
 
 p1 = Pessoa.por_ano_nascimento('Luiz', 23)
-
 print(p1.anoAtual)
+
+p2 = Pessoa('Lucas', 30)
+p2.get_ano_nascimento()
 
 # Método de classe x método de instância
 # É relacionada a classe em geral ou a instância (específico de cada objeto)?

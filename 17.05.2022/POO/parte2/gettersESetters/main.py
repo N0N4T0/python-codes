@@ -32,7 +32,7 @@ class Produto:
         return self._preco
 
     # Setter para preço
-    # va,or refere a variável preco lá do init
+    # valor refere a variável preco lá do init
     @preco.setter
     def preco(self, valor):
         if isinstance(valor, str):

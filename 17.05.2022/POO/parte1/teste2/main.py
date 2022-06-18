@@ -7,4 +7,4 @@ p1 = Pessoa('Luiz', 29)
 # p1.idade = 29
 
 # Teste de erro 
-p1.outro_metodo()
+# p1.outro_metodo()

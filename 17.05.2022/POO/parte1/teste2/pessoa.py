@@ -6,7 +6,7 @@ class Pessoa:
         self.comendo = comendo
         self.falando = falando
 
-        variavel = 'Valor'
+        variavel = 'Constutor foi iniciado'
         print(variavel)
 
     def outro_metodo(self):
